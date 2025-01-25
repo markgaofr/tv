@@ -1,17 +1,13 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-3/05535.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-3/05536.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-3/05537.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-3/05538.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-3/05539.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-4/02083.ts#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-4/02084.ts#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-4/02085.ts#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
-https://aktv.top/AKTV/stream/aktv/null-4/02086.ts#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",
+﻿#EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="" group-title="凤凰卫视",凤凰中文
+https://aktv.top/AKTV/stream/aktv/null-3/05535.tsEND
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="" group-title="凤凰卫视",凤凰中文https://aktv.top/AKTV/stream/aktv/null-3/05536.tsEND
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="" group-title="凤凰卫视",凤凰中文https://aktv.top/AKTV/stream/aktv/null-3/05537.ts
+END#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="" group-title="凤凰卫视",凤凰中文https://aktv.top/AKTV/stream/aktv/null-3/05538.ts
+END#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="" group-title="凤凰卫视",凤凰中文https://aktv.top/AKTV/stream/aktv/null-3/05539.ts
+END#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="凤凰卫视",凤凰资讯
+https://aktv.top/AKTV/stream/aktv/null-4/02083.tsEND#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="凤凰卫视",凤凰资讯
+https://aktv.top/AKTV/stream/aktv/null-4/02084.tsEND#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="凤凰卫视",凤凰资讯
+https://aktv.top/AKTV/stream/aktv/null-4/02085.tsEND#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="凤凰卫视",凤凰资讯
+https://aktv.top/AKTV/stream/aktv/null-4/02086.tsEND#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="凤凰卫视",凤凰资讯
 https://aktv.top/AKTV/stream/aktv/null-4/02087.ts
