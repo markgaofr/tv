@@ -1,0 +1,455 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
+http://php.iptviptv.site/iptv.php?id=cctv01
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
+http://php.iptviptv.site/iptv.php?id=cctv2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://php.iptviptv.site/iptv.php?id=cctvz3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://php.iptviptv.site/iptv.php?id=cctvb4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
+http://php.iptviptv.site/iptv.php?id=cctv5
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
+http://php.iptviptv.site/iptv.php?id=cctvm6
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
+http://php.iptviptv.site/iptv.php?id=cctv5+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://php.iptviptv.site/iptv.php?id=cctvq7
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://php.iptviptv.site/iptv.php?id=cctv88
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
+http://php.iptviptv.site/iptv.php?id=cctv09
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
+http://php.iptviptv.site/iptv.php?id=cctv100
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://php.iptviptv.site/iptv.php?id=cctvp11
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://php.iptviptv.site/iptv.php?id=cctv12
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://php.iptviptv.site/iptv.php?id=cctv13
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://php.iptviptv.site/iptv.php?id=cctv14
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://php.iptviptv.site/iptv.php?id=cctvo15
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://php.iptviptv.site/iptv.php?id=cctvd16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业高清
+http://php.iptviptv.site/iptv.php?id=cctv17
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+http://php.iptviptv.site/iptv.php?id=hunan0d
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://php.iptviptv.site/iptv.php?id=zhejiangcy
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://php.iptviptv.site/iptv.php?id=jiangsu66
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://php.iptviptv.site/iptv.php?id=dongfang18
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://php.iptviptv.site/iptv.php?id=anhui75
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://php.iptviptv.site/iptv.php?id=bjws
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://php.iptviptv.site/iptv.php?id=tianjin39
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://php.iptviptv.site/iptv.php?id=shandongw1
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://php.iptviptv.site/iptv.php?id=jiangxi80
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://php.iptviptv.site/iptv.php?id=hubeihubei
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://php.iptviptv.site/iptv.php?id=liao
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://php.iptviptv.site/iptv.php?id=hlj62
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://php.iptviptv.site/iptv.php?id=guizhou112
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://php.iptviptv.site/iptv.php?id=sichuan
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://php.iptviptv.site/iptv.php?id=henan68
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://php.iptviptv.site/iptv.php?id=yunnansf
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://php.iptviptv.site/iptv.php?id=chongqing
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://php.iptviptv.site/iptv.php?id=hebeiyu
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://php.iptviptv.site/iptv.php?id=dongnan11
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://php.iptviptv.site/iptv.php?id=guangxibiaoge
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://php.iptviptv.site/iptv.php?id=jilina
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://php.iptviptv.site/iptv.php?id=shanxi5
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://php.iptviptv.site/iptv.php?id=shangxi
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://php.iptviptv.site/iptv.php?id=neimenggu
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://php.iptviptv.site/iptv.php?id=qinghai12
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://php.iptviptv.site/iptv.php?id=hainan29
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://php.iptviptv.site/iptv.php?id=lxia
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://php.iptviptv.site/iptv.php?id=xizang
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://php.iptviptv.site/iptv.php?id=xinjiang
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://php.iptviptv.site/iptv.php?id=gansu93
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://php.iptviptv.site/iptv.php?id=xiamen
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
+http://php.iptviptv.site/iptv.php?id=wuxingtiyu32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新闻综合
+http://php.iptviptv.site/iptv.php?id=xinwenzonghe41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经
+http://php.iptviptv.site/iptv.php?id=dongfangcaijing88
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
+http://php.iptviptv.site/iptv.php?id=dycaijing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市频道
+http://php.iptviptv.site/iptv.php?id=dushi
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
+http://php.iptviptv.site/iptv.php?id=dfys1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆影视
+http://php.iptviptv.site/iptv.php?id=cqys123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆新闻
+http://php.iptviptv.site/iptv.php?id=cqxw349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆社会
+http://php.iptviptv.site/iptv.php?id=cqsh1lm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆娱乐
+http://php.iptviptv.site/iptv.php?id=cqyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆少儿
+http://php.iptviptv.site/iptv.php?id=cqse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江新闻
+http://php.iptviptv.site/iptv.php?id=zjxw6345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江体育
+http://php.iptviptv.site/iptv.php?id=zjty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江少儿
+http://php.iptviptv.site/iptv.php?id=zjs12e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",杭州TV-1 综合
+http://php.iptviptv.site/iptv.php?id=zjhztv1
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",杭州TV-2 明珠
+http://php.iptviptv.site/iptv.php?id=zjhztv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",杭州TV-3 生活
+http://php.iptviptv.site/iptv.php?id=zjhztv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",杭州TV-4 影视
+http://php.iptviptv.site/iptv.php?id=zjhztv4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",杭州TV-5 青少·体育
+http://php.iptviptv.site/iptv.php?id=zjhztv5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV1
+http://php.iptviptv.site/iptv.php?id=zjlbtv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV2
+http://php.iptviptv.site/iptv.php?id=zjlbtv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV3
+http://php.iptviptv.site/iptv.php?id=zjlbtv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV4
+http://php.iptviptv.site/iptv.php?id=zjlbtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽体育
+http://php.iptviptv.site/iptv.php?id=ahty56
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽公共
+http://php.iptviptv.site/iptv.php?id=ahggrw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽影视
+http://php.iptviptv.site/iptv.php?id=ahysys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽经济
+http://php.iptviptv.site/iptv.php?id=ahjjjw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安徽科教
+http://php.iptviptv.site/iptv.php?id=ahkjyd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亳州农村
+http://php.iptviptv.site/iptv.php?id=ahhzcn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亳州新闻
+http://php.iptviptv.site/iptv.php?id=ahhzxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",歙县综合
+http://php.iptviptv.site/iptv.php?id=ahxzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州公共
+http://php.iptviptv.site/iptv.php?id=ahxzgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州科教
+http://php.iptviptv.site/iptv.php?id=ahxzjk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",滁州新闻综合
+http://php.iptviptv.site/iptv.php?id=ahxzxwzh
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视
+http://php.iptviptv.site/iptv.php?id=scysysys1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新闻频道
+http://php.iptviptv.site/iptv.php?id=scxwzhzx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影
+http://php.iptviptv.site/iptv.php?id=scemmetw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天津新闻
+http://php.iptviptv.site/iptv.php?id=TJxwef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天津影视
+http://php.iptviptv.site/iptv.php?id=TJyswed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天津都市
+http://php.iptviptv.site/iptv.php?id=TJds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天津体育
+http://php.iptviptv.site/iptv.php?id=TJtyTYH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西新闻
+http://php.iptviptv.site/iptv.php?id=SXXW111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西影视
+http://php.iptviptv.site/iptv.php?id=sxys666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西体育
+http://php.iptviptv.site/iptv.php?id=sxtysxty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西部电影
+http://php.iptviptv.site/iptv.php?id=sxxbdydytr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西安影视
+http://php.iptviptv.site/iptv.php?id=sxxady
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://php.iptviptv.site/iptv.php?id=gdws651
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
+http://php.iptviptv.site/iptv.php?id=gdzjzj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大湾区卫视
+http://php.iptviptv.site/iptv.php?id=dawanqu678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州综合
+http://php.iptviptv.site/iptv.php?id=gzzhhzzf
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",广东新闻
+http://php.iptviptv.site/iptv.php?id=gdxwgt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东民生
+http://php.iptviptv.site/iptv.php?id=gdmswt
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+http://php.iptviptv.site/iptv.php?id=gdtyre
+#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" group-title="地方",广东经济科教
+http://php.iptviptv.site/iptv.php?id=gdkejiao
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方",广东影视
+http://php.iptviptv.site/iptv.php?id=gdyingshi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",潮州综合
+http://php.iptviptv.site/iptv.php?id=gdczzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东导视(G导视)
+http://php.iptviptv.site/iptv.php?id=gdds12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",潮安综合
+http://php.iptviptv.site/iptv.php?id=cazh154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头文旅体育
+http://php.iptviptv.site/iptv.php?id=stty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头新闻综合
+http://php.iptviptv.site/iptv.php?id=stxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕尾新闻综合
+http://php.iptviptv.site/iptv.php?id=swxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗门融媒
+http://php.iptviptv.site/iptv.php?id=dmrm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西新闻
+http://php.iptviptv.site/iptv.php?id=gxxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西综艺
+http://php.iptviptv.site/iptv.php?id=gxzy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广西影视
+http://php.iptviptv.site/iptv.php?id=gxys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁新闻
+http://php.iptviptv.site/iptv.php?id=nlxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南宁影视
+http://php.iptviptv.site/iptv.php?id=nlys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北都市
+http://php.iptviptv.site/iptv.php?id=hbds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北影视
+http://php.iptviptv.site/iptv.php?id=hbys12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北少儿
+http://php.iptviptv.site/iptv.php?id=hbsese
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北公共
+http://php.iptviptv.site/iptv.php?id=hbgg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北杂技
+http://php.iptviptv.site/iptv.php?id=hbzj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖北经视
+http://php.iptviptv.site/iptv.php?id=hubeijs
+#EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北",湖北垄上
+http://php.iptviptv.site/iptv.php?id=hubeigs
+#EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北",湖北影视
+http://php.iptviptv.site/iptv.php?id=hubeiys
+#EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="湖北",武汉新闻
+http://php.iptviptv.site/iptv.php?id=whxw
+#EXTINF:-1 tvg-id="1788" tvg-name="武汉电视剧频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png" group-title="湖北",武汉电视剧
+http://php.iptviptv.site/iptv.php?id=whdsj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏体育休闲
+http://php.iptviptv.site/iptv.php?id=jsxxty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏影视
+http://php.iptviptv.site/iptv.php?id=jsys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏综艺
+http://php.iptviptv.site/iptv.php?id=jszy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏新闻
+http://php.iptviptv.site/iptv.php?id=jsxw
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://php.iptviptv.site/iptv.php?id=chcjiat66
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://php.iptviptv.site/iptv.php?id=chdzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHC影迷电影
+http://php.iptviptv.site/iptv.php?id=chcmy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空卫视
+http://php.iptviptv.site/iptv.php?id=xingkongsw
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球
+http://php.iptviptv.site/iptv.php?id=fengyunzq478
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
+http://php.iptviptv.site/iptv.php?id=yangshitaiq4123
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球
+http://php.iptviptv.site/iptv.php?id=gaoerfu
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
+http://php.iptviptv.site/iptv.php?id=nxss
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",世界地理
+http://php.iptviptv.site/iptv.php?id=sjdl
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",怀旧剧场
+http://php.iptviptv.site/iptv.php?id=hjjc873
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",风云剧场
+http://php.iptviptv.site/iptv.php?id=fengyunjc87
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",第一剧场
+http://php.iptviptv.site/iptv.php?id=diyijuc
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+http://php.iptviptv.site/iptv.php?id=laogushi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中学生
+http://php.iptviptv.site/iptv.php?id=zxs
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
+http://php.iptviptv.site/iptv.php?id=klcd87
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋
+http://php.iptviptv.site/iptv.php?id=tianyuanwq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重温经典
+http://php.iptviptv.site/iptv.php?id=cwjd
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
+http://php.iptviptv.site/iptv.php?id=xsj
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://php.iptviptv.site/iptv.php?id=jbty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球
+http://php.iptviptv.site/iptv.php?id=mlzq
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="北京",北京体育
+http://php.iptviptv.site/iptv.php?id=beijty23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘电影
+http://php.iptviptv.site/iptv.php?id=taod
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘剧场
+http://php.iptviptv.site/iptv.php?id=taojr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘娱乐
+http://php.iptviptv.site/iptv.php?id=taoyl31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘baby
+http://php.iptviptv.site/iptv.php?id=taoybayd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘精彩
+http://php.iptviptv.site/iptv.php?id=taoycj
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
+http://php.iptviptv.site/iptv.php?id=beijingys
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
+http://php.iptviptv.site/iptv.php?id=beijingcj
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻
+http://php.iptviptv.site/iptv.php?id=beijingxw
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",北京卡酷少儿
+http://php.iptviptv.site/iptv.php?id=beijingku
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",V音乐台
+http://php.iptviptv.site/iptv.php?id=vyinyue
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
+http://php.iptviptv.site/iptv.php?id=HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",今日俄罗斯
+http://php.iptviptv.site/iptv.php?id=elsjr
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台",日本NHK
+http://php.iptviptv.site/iptv.php?id=nhk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韩国KBS
+http://php.iptviptv.site/iptv.php?id=kbs
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(广电)
+http://php.iptviptv.site/iptv.php?id=fctgd66
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://php.iptviptv.site/iptv.php?id=mzt
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台(原版)
+http://php.iptviptv.site/iptv.php?id=fctyb841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",千禧经典台
+http://php.iptviptv.site/iptv.php?id=qianxi
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台4k
+http://php.iptviptv.site/iptv.php?id=fct4kcj
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台",Animax
+http://php.iptviptv.site/iptv.php?id=animax
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台
+http://php.iptviptv.site/iptv.php?id=meiya666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TVB PLUS
+http://php.iptviptv.site/iptv.php?id=tvbsulp
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+http://php.iptviptv.site/iptv.php?id=wuxianxwfeiwu
+#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="港澳台",天映经典频道
+http://php.iptviptv.site/iptv.php?id=tianying
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",黄金翡翠台
+http://php.iptviptv.site/iptv.php?id=hjfct
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://php.iptviptv.site/iptv.php?id=fhxgwe
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://php.iptviptv.site/iptv.php?id=fhzwwe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰资询
+http://php.iptviptv.site/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黄金华剧台
+http://php.iptviptv.site/iptv.php?id=hjhjt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华语剧台
+http://php.iptviptv.site/iptv.php?id=hyjt66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",粤语片台
+http://php.iptviptv.site/iptv.php?id=yueyupiantai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",神州新闻台
+http://php.iptviptv.site/iptv.php?id=szxwt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无线卫星新闻台
+http://php.iptviptv.site/iptv.php?id=wxwxxwt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无线卫星亚洲台
+http://php.iptviptv.site/iptv.php?id=wxwxyzt
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视国际频道
+http://php.iptviptv.site/iptv.php?id=dfwsgj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",戏曲台
+http://php.iptviptv.site/iptv.php?id=xqt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",娱乐新闻台
+http://php.iptviptv.site/iptv.php?id=ylxwtww
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",半岛电视台英语频道
+http://php.iptviptv.site/iptv.php?id=bddstyypd
+#EXTINF:-1 tvg-id="591" tvg-name="创世电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/chuangshi.png" group-title="港澳台",创世电视
+http://php.iptviptv.site/iptv.php?id=csds
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台",亚洲新闻台
+http://php.iptviptv.site/iptv.php?id=yzxwt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亚洲剧台
+http://php.iptviptv.site/iptv.php?id=yzjt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ZooMoo
+http://php.iptviptv.site/iptv.php?id=zoomoosb
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN
+http://php.iptviptv.site/iptv.php?id=tvnbs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Thrill
+http://php.iptviptv.site/iptv.php?id=thrillbs1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SUPER Kids Channel
+http://php.iptviptv.site/iptv.php?id=kidsch
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ROCK 综艺娱乐
+http://php.iptviptv.site/iptv.php?id=rockzyyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ROCK Action
+http://php.iptviptv.site/iptv.php?id=rockacti
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PopC
+http://php.iptviptv.site/iptv.php?id=rock69
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="港澳台",Nickelodeon
+http://php.iptviptv.site/iptv.php?id=nickelo
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="港澳台",Nick Jr
+http://php.iptviptv.site/iptv.php?id=nickjr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK World-Japan
+http://php.iptviptv.site/iptv.php?id=nhkjapan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",my直播足球6台
+http://php.iptviptv.site/iptv.php?id=zq6t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",my直播足球5台
+http://php.iptviptv.site/iptv.php?id=zq5t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",my直播足球4台
+http://php.iptviptv.site/iptv.php?id=zq4t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",my直播足球3台
+http://php.iptviptv.site/iptv.php?id=zq3t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",myTV SUPER FREE
+http://php.iptviptv.site/iptv.php?id=superfree
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",myTV SUPER 18台
+http://php.iptviptv.site/iptv.php?id=super18
+#EXTINF:-1 tvg-id="468" tvg-name="MEZZOLIVEHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mezzo.png" group-title="港澳台",Mezzo Live HD
+http://php.iptviptv.site/iptv.php?id=mezzo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Love Nature HD
+http://php.iptviptv.site/iptv.php?id=lovehd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Love Nature 4K
+http://php.iptviptv.site/iptv.php?id=love4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KIX
+http://php.iptviptv.site/iptv.php?id=kix
+#EXTINF:-1 tvg-id="7255" tvg-name="globaltrekker" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/globaltrekker.png" group-title="港澳台",Global Trekker
+http://php.iptviptv.site/iptv.php?id=global
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="港澳台",France 24
+http://php.iptviptv.site/iptv.php?id=france67
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FashionBox
+http://php.iptviptv.site/iptv.php?id=fashionbox
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="港澳台",DW
+http://php.iptviptv.site/iptv.php?id=dw54
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="港澳台",AXN
+http://php.iptviptv.site/iptv.php?id=axnwd
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="港澳台",Arirang TV
+http://php.iptviptv.site/iptv.php?id=arirang
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",viutv
+http://php.iptviptv.site/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",viutv6
+http://php.iptviptv.site/iptv.php?id=viutv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RTHK31
+http://php.iptviptv.site/iptv.php?id=RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RTHK32
+http://php.iptviptv.site/iptv.php?id=RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爆谷台
+http://php.iptviptv.site/iptv.php?id=baogu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影台
+http://php.iptviptv.site/iptv.php?id=xingying12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hoy76
+http://php.iptviptv.site/iptv.php?id=Hoy76
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hoy77
+http://php.iptviptv.site/iptv.php?id=Hoy77
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Hoy78
+http://php.iptviptv.site/iptv.php?id=Hoy78
